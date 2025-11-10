@@ -1,0 +1,6 @@
+1;Putana;8;History
+2;Jamal;15;Physics
+3;Paul;99;IT
+4;Allah;67;IT
+6;Misha;17;IT
+7;Sigma;1113;IT
